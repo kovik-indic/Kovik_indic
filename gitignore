@@ -1,0 +1,24 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Node / Frontend temporary files
+node_modules/
+.vite/
+dist-ssr/
+
+# Operating System files
+.DS_Store
+Thumbs.db
