@@ -1,1 +1,0 @@
-# Kovik_indic
